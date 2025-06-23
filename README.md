@@ -22,17 +22,18 @@ Crafting Intelligent Interfaces • Engineering Digital Solutions • Embracing 
 ## 🧠 Tech Proficiency
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yug210705/yug210705/main/assets/Python.svg" width="100"/>
-  <img src="https://raw.githubusercontent.com/yug210705/yug210705/main/assets/C.svg" width="100"/>
-  <img src="https://raw.githubusercontent.com/yug210705/yug210705/main/assets/C++.svg" width="100"/>
-  <img src="https://raw.githubusercontent.com/yug210705/yug210705/main/assets/HTML.svg" width="100"/>
-  <img src="https://raw.githubusercontent.com/yug210705/yug210705/main/assets/CSS.svg" width="100"/>
-  <img src="https://raw.githubusercontent.com/yug210705/yug210705/main/assets/JavaScript.svg" width="100"/>
-  <img src="https://raw.githubusercontent.com/yug210705/yug210705/main/assets/React.svg" width="100"/>
-  <img src="https://raw.githubusercontent.com/yug210705/yug210705/main/assets/Tailwind_CSS.svg" width="100"/>
-  <img src="https://raw.githubusercontent.com/yug210705/yug210705/main/assets/TypeScript.svg" width="100"/>
-  <img src="https://raw.githubusercontent.com/yug210705/yug210705/main/assets/DSA.svg" width="100"/>
+  <img src="https://img.shields.io/badge/Python-98%25-blueviolet?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-95%25-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-93%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-92%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-91%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-85%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-83%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-82%25-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-80%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-78%25-gray?style=for-the-badge&logo=code&logoColor=white" />
 </p>
+
 
 ---
 
