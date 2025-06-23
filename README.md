@@ -49,7 +49,7 @@ Crafting Intelligent Interfaces • Engineering Digital Solutions • Embracing 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yug210705&show_icons=true&theme=radical&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yug210705&layout=compact&theme=radical&hide_border=true" width="47%" height="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yug210705&layout=compact&theme=radical&hide_border=true" width="47%" height="50%" />
 </p>
 
 ---
