@@ -19,20 +19,20 @@ Crafting Intelligent Interfaces • Engineering Digital Solutions • Embracing 
 
 ---
 
-## 🧠 My Stack
+<h3 align="center">🧠 Tech Proficiency</h3>
+<p align="center">
+  <img src="https://path-to-your-repo/Python.svg" width="100"/>
+  <img src="https://path-to-your-repo/C.svg" width="100"/>
+  <img src="https://path-to-your-repo/C++.svg" width="100"/>
+  <img src="https://path-to-your-repo/HTML.svg" width="100"/>
+  <img src="https://path-to-your-repo/CSS.svg" width="100"/>
+  <img src="https://path-to-your-repo/JavaScript.svg" width="100"/>
+  <img src="https://path-to-your-repo/React.svg" width="100"/>
+  <img src="https://path-to-your-repo/Tailwind_CSS.svg" width="100"/>
+  <img src="https://path-to-your-repo/TypeScript.svg" width="100"/>
+  <img src="https://path-to-your-repo/DSA.svg" width="100"/>
+</p>
 
-| Skill             | Proficiency |
-|------------------|-------------|
-| **React.js**      | 🔵 🔵 🔵 🔵 ⚪️ (80%) |
-| **Tailwind CSS**  | 🔵 🔵 🔵 🔵 🔵 (100%) |
-| **Python (ML/NLP)** | 🔵 🔵 🔵 🔵 ⚪️ (85%) |
-| **C/C++ (DSA)**   | 🔵 🔵 🔵 ⚪️ ⚪️ (70%) |
-| **Firebase**      | 🔵 🔵 🔵 🔵 ⚪️ (80%) |
-| **AWS/GCP**       | 🔵 🔵 🔵 ⚪️ ⚪️ (65%) |
-
-> *(You can turn these into circular SVGs next if you want!)*
-
----
 
 ## 🔨 Tech Toolbox
 
