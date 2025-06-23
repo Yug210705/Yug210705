@@ -19,20 +19,22 @@ Crafting Intelligent Interfaces • Engineering Digital Solutions • Embracing 
 
 ---
 
-<h3 align="center">🧠 Tech Proficiency</h3>
+## 🧠 Tech Proficiency
+
 <p align="center">
-  <img src="https://path-to-your-repo/Python.svg" width="100"/>
-  <img src="https://path-to-your-repo/C.svg" width="100"/>
-  <img src="https://path-to-your-repo/C++.svg" width="100"/>
-  <img src="https://path-to-your-repo/HTML.svg" width="100"/>
-  <img src="https://path-to-your-repo/CSS.svg" width="100"/>
-  <img src="https://path-to-your-repo/JavaScript.svg" width="100"/>
-  <img src="https://path-to-your-repo/React.svg" width="100"/>
-  <img src="https://path-to-your-repo/Tailwind_CSS.svg" width="100"/>
-  <img src="https://path-to-your-repo/TypeScript.svg" width="100"/>
-  <img src="https://path-to-your-repo/DSA.svg" width="100"/>
+  <img src="https://raw.githubusercontent.com/yug210705/yug210705/main/assets/Python.svg" width="100"/>
+  <img src="https://raw.githubusercontent.com/yug210705/yug210705/main/assets/C.svg" width="100"/>
+  <img src="https://raw.githubusercontent.com/yug210705/yug210705/main/assets/C++.svg" width="100"/>
+  <img src="https://raw.githubusercontent.com/yug210705/yug210705/main/assets/HTML.svg" width="100"/>
+  <img src="https://raw.githubusercontent.com/yug210705/yug210705/main/assets/CSS.svg" width="100"/>
+  <img src="https://raw.githubusercontent.com/yug210705/yug210705/main/assets/JavaScript.svg" width="100"/>
+  <img src="https://raw.githubusercontent.com/yug210705/yug210705/main/assets/React.svg" width="100"/>
+  <img src="https://raw.githubusercontent.com/yug210705/yug210705/main/assets/Tailwind_CSS.svg" width="100"/>
+  <img src="https://raw.githubusercontent.com/yug210705/yug210705/main/assets/TypeScript.svg" width="100"/>
+  <img src="https://raw.githubusercontent.com/yug210705/yug210705/main/assets/DSA.svg" width="100"/>
 </p>
 
+---
 
 ## 🔨 Tech Toolbox
 
