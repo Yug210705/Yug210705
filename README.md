@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=800&color=39FF14&background=000000&center=true&vCenter=true&width=900&lines=root%40yugpathak%3A~%24+whoami;%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E8%B5%B7%E5%8B%95%E4%B8%AD...+Initializing...;Full-Stack+Engineer+%2F%2F+AI-ML+Systems;RLHF+Trainer+%2F%2F+Route+Optimization;%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E8%A8%B1%E5%8F%AF+-+Access+Granted" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=800&color=39FF14&background=000000&center=true&vCenter=true&width=900&lines=root%40yugpathak%3A~%24+whoami;Full-Stack+Engineer+%2F%2F+AI-ML+Systems;RLHF+Trainer+%2F%2F+Route+Optimization+Engine;System+Boot+Complete+-+Access+Granted" alt="Typing SVG" />
 
 ```
 ╔═══════════════════════════════════════════════════════════════════╗
 ║  root@yugpathak:~# ./initiate_system.sh                             ║
-║  [OK] Identity confirmed ......... YUG PATHAK                       ║
-║  [OK] Clearance level ............ FULL-STACK / AI-ML / SECURITY    ║
-║  [OK] Location ................... Jaipur, Rajasthan, IN            ║
-║  [OK] 侵入完了 (Intrusion Complete) — Access Granted                 ║
+║  [OK] Identity confirmed .......... YUG PATHAK                      ║
+║  [OK] Clearance level .............. FULL-STACK / AI-ML / SECURITY  ║
+║  [OK] Location ..................... Jaipur, Rajasthan, IN          ║
+║  [OK] Status ........................ ACCESS GRANTED                ║
 ╚═══════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://komarev.com/ghpvc/?username=yug210705&label=INTRUSIONS+LOGGED&color=39FF14&style=for-the-badge&labelColor=000000" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=yug210705&label=SYSTEMS+SCANNED&color=39FF14&style=for-the-badge&labelColor=000000" alt="Profile Views" />
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://linkedin.com/in/yug-pathak-94b7b225b)
 [![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/Yug210705)
@@ -20,79 +20,77 @@
 [![HackerRank](https://img.shields.io/badge/HACKERRANK-000000?style=for-the-badge&logo=hackerrank&logoColor=39FF14)](https://hackerrank.com/yugpathak2005)
 [![Gmail](https://img.shields.io/badge/CONTACT-000000?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:yugpathak2005@gmail.com)
 
-</div>
-
 ---
 
-## `>_` root@yugpathak:~$ neofetch
+## `>_` CHARACTER SHEET
 
 ```
-                                    OS: Human.exe [Software Engineer Build]
-        888                         Host: Poornima University // B.Tech CSE
-        888                         Kernel: 9.15 CGPA (08/2024 — 08/2028)
-   .d88888888  888  888 .d88b.      Uptime: 500+ days of shipping code
-  d88" 888     888  888 d88P"88b    Shell: Python · C++ · JavaScript · Java
-  888  888     888  888 888  888    Focus: Backend Systems · Optimization · Applied AI
-  Y88b 888     Y88b 888 Y88b 888    Status: 🟢 ACTIVE — Open to opportunities
-   "Y88888      "Y88888  "Y88888    Rank: GDG On Campus — Organiser/Lead
-                     888      888
-                Y8b d88P Y8b d88P
-                 "Y88P"   "Y88P"
+LEVEL 99  //  CLASS: Full-Stack + AI/ML Engineer  //  GUILD: GDG On Campus (Lead)
 ```
-
----
-
-## `>_` root@yugpathak:~$ cat arsenal.json
 
 <table>
-<tr><td valign="top" width="50%">
-
-**⚔️ PRIMARY LANGUAGES**
-```
-Python · C++ · JavaScript · Java
-```
-
-**🛠️ BACKEND SYSTEMS**
-```
-Node.js · Express.js · Flask · REST APIs
-```
-
-**🗄️ DATA LAYER**
-```
-PostgreSQL · Firebase
-```
-
-</td><td valign="top" width="50%">
-
-**🧠 AI / ML OPS**
-```
-Machine Learning · Deep Learning
-Computer Vision · RLHF · SFT
-LLM Evaluation · Scikit-Learn
-OpenCV · NumPy · Pandas
-```
-
-**🧩 CORE CS**
-```
-DSA · OOP · DBMS
-Operating Systems · Computer Networks
-```
-
-**🔧 TOOLS**
-```
-Git · GitHub · Postman
-```
-
-</td></tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/CGPA-9.15%2F10-000000?style=for-the-badge&logo=googlescholar&logoColor=39FF14"/></td>
+<td align="center"><img src="https://img.shields.io/badge/UNIVERSITY-Poornima-000000?style=for-the-badge&logo=googlecampus&logoColor=39FF14"/></td>
+<td align="center"><img src="https://img.shields.io/badge/DEGREE-B.Tech%20CSE-000000?style=for-the-badge&logo=codeforces&logoColor=39FF14"/></td>
+<td align="center"><img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-000000?style=for-the-badge&logo=statuspage&logoColor=39FF14"/></td>
+</tr>
 </table>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,java,c,cpp,nodejs,express,flask,postgres,firebase,git,github,vscode" />
-</p>
 
 ---
 
-## `>_` root@yugpathak:~$ tail -f mission_log.txt
+## `>_` STAT BLOCK — CAREER METRICS
+
+<table>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/12%2C000%2B-LLM%20OUTPUTS%20EVALUATED-000000?style=for-the-badge&logoColor=39FF14"/></td>
+<td align="center"><img src="https://img.shields.io/badge/97%25%2B-EVAL%20PRECISION-000000?style=for-the-badge&logoColor=39FF14"/></td>
+<td align="center"><img src="https://img.shields.io/badge/18%25-HALLUCINATION%20REDUCTION-000000?style=for-the-badge&logoColor=39FF14"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/22%25-ROUTE%20EFFICIENCY%20GAIN-000000?style=for-the-badge&logoColor=39FF14"/></td>
+<td align="center"><img src="https://img.shields.io/badge/18%25-OPERATIONAL%20COST%20CUT-000000?style=for-the-badge&logoColor=39FF14"/></td>
+<td align="center"><img src="https://img.shields.io/badge/500%2B-DAILY%20API%20INTERACTIONS-000000?style=for-the-badge&logoColor=39FF14"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/90%25-UNSAFE%20TX%20BLOCKED-000000?style=for-the-badge&logoColor=39FF14"/></td>
+<td align="center"><img src="https://img.shields.io/badge/5%2B-SMART%20CONTRACTS%20DEPLOYED-000000?style=for-the-badge&logoColor=39FF14"/></td>
+<td align="center"><img src="https://img.shields.io/badge/100%25-DEADLINE%20COMPLIANCE-000000?style=for-the-badge&logoColor=39FF14"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/96%25-ML%20MODEL%20PRECISION-000000?style=for-the-badge&logoColor=39FF14"/></td>
+<td align="center"><img src="https://img.shields.io/badge/120%2B-DELIVERY%20NODES%20OPTIMIZED-000000?style=for-the-badge&logoColor=39FF14"/></td>
+<td align="center"><img src="https://img.shields.io/badge/28%2B-LEETCODE%20SOLVED-000000?style=for-the-badge&logoColor=39FF14"/></td>
+</tr>
+</table>
+
+---
+
+## `>_` cat arsenal.json
+
+**⚔️ PRIMARY LANGUAGES**
+`Python` `C++` `JavaScript` `Java`
+
+**🛠️ BACKEND SYSTEMS**
+`Node.js` `Express.js` `Flask` `REST APIs`
+
+**🗄️ DATA LAYER**
+`PostgreSQL` `Firebase`
+
+**🧠 AI / ML OPS**
+`Machine Learning` `Deep Learning` `Computer Vision` `RLHF` `SFT` `LLM Evaluation` `Scikit-Learn` `OpenCV` `NumPy` `Pandas`
+
+**🧩 CORE CS**
+`DSA` `OOP` `DBMS` `Operating Systems` `Computer Networks`
+
+**🔧 TOOLS**
+`Git` `GitHub` `Postman`
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,java,c,cpp,nodejs,express,flask,postgres,firebase,git,github,vscode" />
+
+---
+
+## `>_` tail -f mission_log.txt
 
 ### 🟢 OPERATION: MITTAL ALLIANCE INDUSTRIES PVT. LTD.
 `ROLE: Software Engineering Intern` · `03/2026 — PRESENT` · `REMOTE` · `STATUS: ACTIVE`
@@ -101,7 +99,7 @@ Git · GitHub · Postman
 + Independently delivered 4+ production-grade software solutions for 3 international
 + clients and 1 domestic client — full lifecycle, requirements to deployment
 + Designed and shipped 10+ RESTful APIs supporting 500+ daily user interactions
-+ Built a production-grade route optimization engine using the Clarke–Wright
++ Built a production-grade route optimization engine using the Clarke-Wright
 + Savings Algorithm — multi-vehicle routing across 120+ delivery nodes
 + Travel distance reduced ~22% | Operational cost reduced ~18%
 + Engineered distance-matrix computation + savings-based route merging logic
@@ -121,14 +119,14 @@ Git · GitHub · Postman
 
 ---
 
-## `>_` root@yugpathak:~$ ls -la payloads/
+## `>_` ls -la payloads/
 
 <details>
 <summary><b>🔓 DECRYPT: OBS — Oracle Before Signing</b> · Blockchain Security System</summary>
 
 <br>
 
-Chat-only transaction risk analysis system that **simulates on-chain transactions before you sign** — defaults to DENY unless proven safe.
+Chat-only transaction risk analysis system that simulates on-chain transactions before you sign — defaults to DENY unless proven safe.
 
 ```diff
 + Permission-first transaction validation — reduced unsafe blockchain transactions ~90%
@@ -228,7 +226,7 @@ Enterprise-grade, multi-tenant B2B platform acting as an organizational knowledg
 
 ---
 
-## `>_` root@yugpathak:~$ sudo access --grant root
+## `>_` sudo access --grant root
 
 ### VERIFIED EXPLOITS // OPEN SOURCE (Merged Pull Requests)
 
@@ -241,16 +239,14 @@ Enterprise-grade, multi-tenant B2B platform acting as an organizational knowledg
 
 ---
 
-## `>_` root@yugpathak:~$ cat licenses.pem
+## `>_` cat licenses.pem
 
-```
-🟢 Oracle Cloud Developer Professional Certification
-🟢 Oracle Certified Generative AI Professional
-```
+<img src="https://img.shields.io/badge/Oracle%20Cloud%20Developer-PROFESSIONAL-000000?style=for-the-badge&logo=oracle&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Oracle%20Generative%20AI-CERTIFIED-000000?style=for-the-badge&logo=oracle&logoColor=39FF14"/>
 
 ---
 
-## `>_` root@yugpathak:~$ whoami --rank
+## `>_` whoami --rank
 
 **Google Developer Groups (GDG) On Campus** — `Organiser / Lead` · `08/2025 — Present` · Jaipur, Rajasthan
 
@@ -263,33 +259,23 @@ Enterprise-grade, multi-tenant B2B platform acting as an organizational knowledg
 
 ---
 
-## `>_` root@yugpathak:~$ ./run_diagnostics.sh --full
+## `>_` ./run_diagnostics.sh --full
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yug210705&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=00FF41" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yug210705&theme=tokyonight&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="48%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=yug210705&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=00FF41" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yug210705&theme=tokyonight&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="48%" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yug210705&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=39FF14&text_color=00FF41" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yug210705&theme=react-dark&bg_color=000000&color=39FF14&line=39FF14&point=00FF41&hide_border=true" width="48%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yug210705&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=39FF14&text_color=00FF41" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yug210705&theme=react-dark&bg_color=000000&color=39FF14&line=39FF14&point=00FF41&hide_border=true" width="48%" />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yug210705&theme=darkhub&no-frame=true&row=1&column=7" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=yug210705&theme=darkhub&no-frame=true&row=1&column=7" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yug210705/yug210705/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
+<img src="https://raw.githubusercontent.com/yug210705/yug210705/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 
 > ⚙️ **Snake setup:** add `platane/snk` as a GitHub Action in a repo named `yug210705/yug210705` to auto-generate the animation above → https://github.com/Platane/snk
 
 ---
 
-<div align="center">
-
-## `>_` root@yugpathak:~$ ./connect.sh
+## `>_` ./connect.sh
 
 <a href="https://linkedin.com/in/yug-pathak-94b7b225b" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="35"/></a>
 <a href="https://hackerrank.com/yugpathak2005" target="_blank"><img src="https://skillicons.dev/icons?i=hackerrank" height="35"/></a>
@@ -297,7 +283,7 @@ Enterprise-grade, multi-tenant B2B platform acting as an organizational knowledg
 
 ```
 root@yugpathak:~# exit
-[INFO] Connection closed. セッション終了 (Session Terminated).
+[INFO] Connection closed. Session terminated.
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,100:39FF14&height=100&section=footer"/>
